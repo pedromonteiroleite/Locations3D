@@ -2,17 +2,15 @@
 
 ## Overview
 
-The Locations 3D System is a cutting-edge front-end project designed to revolutionize the way we visualize geographical data. At its core, this system allows users to position, track, and follow movements and locations on a three-dimensional map. Leveraging the power of three.js, a renowned JavaScript library for 3D graphics, alongside modern bundling technology with Parcel, the Locations 3D System offers a seamless and dynamic experience for interactive map visualization.
-
-This system is ideal for applications in logistics, gaming, real estate, and urban planning, where accurate and interactive 3D mapping can enhance user experience and decision-making processes.
+The Locations 3D System is a specialized front-end application designed for 3D visualization of spatial data. Utilizing three.js for advanced 3D graphics and Parcel for efficient asset management, this system enables interactive mapping and tracking in three-dimensional space.
 
 ## Preview
 
-<img src="preview.png" alt="Preview Image" width="50%"/>
+![Preview Image](preview.png)
 
 ## Collaboration
 
-We believe in the power of collaborative development and invite developers, designers, and GIS enthusiasts to contribute to the Locations 3D System. Whether it's through code contributions, bug reports, feature suggestions, or documentation improvements, every form of collaboration is welcomed. To get involved, please follow our contribution guidelines detailed in our documentation.
+Contributions from developers, designers, and specialists in spatial data visualization are welcome. We encourage involvement in the form of code development, bug reporting, feature enhancement, and documentation improvement. For more information on how to contribute, refer to our project documentation.
 
 ## Setup Instructions
 
