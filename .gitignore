@@ -715,3 +715,5 @@ obj/
 
 # Parcel Cache
 .parcel-cache/
+# dist folder
+.dist/
