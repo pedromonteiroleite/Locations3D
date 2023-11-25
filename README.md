@@ -6,8 +6,8 @@ The Locations 3D System is a specialized front-end application designed for 3D v
 
 ## Preview
 
-![Preview Image](preview.png)
-
+<img src="preview.png" alt="Preview Image" width="25%"/>
+<img src="preview02.png" alt="Preview Image" width="30%"/>
 ## Collaboration
 
 Contributions from developers, designers, and specialists in spatial data visualization are welcome. We encourage involvement in the form of code development, bug reporting, feature enhancement, and documentation improvement. For more information on how to contribute, refer to our project documentation.
