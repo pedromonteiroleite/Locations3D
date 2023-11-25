@@ -1,0 +1,23 @@
+{
+    "shelvingUnit": 
+    {
+        "id": "",
+        "position" : "",
+        "numberOfShelves" : "",
+        "shelfWeightCapacity" : "",
+        "verticalSpaceBetweenShelves" : "",
+        "distanceFromGroundOfFirstShelve" : "",
+        "shelfMesh": "",
+        "shelves":[
+            {
+                "id": "",
+                "items": [
+                    {
+                        "id": "",
+                        "itemMesh": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
